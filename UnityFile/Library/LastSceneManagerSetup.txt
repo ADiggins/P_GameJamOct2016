@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/07_Scenes/MattScratch/ScoreKeeperTest.unity
+- path: Assets/07_Scenes/AndrewScratch/ModelTesting.unity
   isLoaded: 1
   isActive: 1
